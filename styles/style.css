@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    height: 880px;
+    background-image: url("/images/banner/banner3.png");
+    background-repeat: no-repeat;
+    margin-bottom: 131px;
+
+}
+
+.contact-button {
+    float: right;
+}
+
+header h3 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    margin: 24px;
+}
+
+header p {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    margin-bottom: 24px;
+    margin-right: 20px;
+}
+
+header div {
+    padding: 230px;
+}
+
+.contact-button {
+    padding: 30px;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #005FAC;
+}
+
+.person-descriptions h2 {
+    color: #151414;
+    margin-bottom: 24px;
+
+}
+
+.person {
+    display: flex;
+    gap: 150px;
+    padding: 206px;
+    width: 70%;
+
+
+}
+
+.person-image {
+    width: 569px;
+    height: 723.3px;
+}
+
+.person-descriptions {
+    padding-top: 400px;
+
+}
+
+.person-descriptions p {
+    margin-bottom: 8px;
+}
+
+.description-section {}
+
+.person-descriptions .title {
+    /* width: 288px;
+    height: 94px; */
+}
+
+.person-descriptions .description {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.person-descriptions .description-section {}
+
+section {}
+
+.my-plans .title {
+    color: #151414;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.descriptions {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 130px;
+}
+
+.descriptions .description {
+    padding: 50px;
+}
+
+.description img {
+    display: block;
+    margin: auto;
+}
+
+.description .desk-title,
+.writting {
+    text-align: center;
+}
+
+.desk-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.writting {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.call-now-btn {
+    padding: 30px;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #005FAC;
+}
+
+.positive-mindset h3 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.positive-mindset {
+    background-image: url("/images/gradient1.png"), url("/images/watch.png");
+    background-repeat: no-repeat;
+
+    margin-left: 100px;
+    margin-bottom: 130px;
+}
+
+.p-description {
+    padding: 60px;
+    width: 50%;
+}
+
+.footer {
+    display: flex;
+}
+
+.future h3 {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+.future br{
+    margin-top: 30px;
+}
+
+.future p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.form h3 {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+#email {
+    padding: 20px;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 16px;
+
+}
+
+.subscribe-btn {
+    padding: 20px;
+    background-color: #005FAC;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.footer{
+    background-color: #151414;
+    color: #FFFFFF;
+    padding: 130px 230px;
+}
+
+.line-break{
+    margin-bottom: 30px;
+}
+.school{
+    display: flex;
+    align-items: center;
+    padding: 200px;
+    gap: 60px;
+}
+.school h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.school-image{
+    width: 500;
+    height: 600;
+}
